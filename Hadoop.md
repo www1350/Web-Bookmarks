@@ -8,4 +8,7 @@
 * [快速理解Docker - 容器级虚拟化解决方案 ](http://blog.csdn.net/colorant/article/details/20608157)
 * [Ubuntu 安装 Docker | Docker 中文指南](http://docker.widuu.com/installation/ubuntu.html#Ubuntu安装Docker)
 * [如何基于Docker快速搭建多节点Hadoop集群](http://cloud.51cto.com/art/201505/477851_all.htm)
+* [在 Docker 上建立多节点的 Hadoop 集群](http://www.oschina.net/translate/multinode-hadoop-cluster-on-docker)
+* 
+* 
 * 
