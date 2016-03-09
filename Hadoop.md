@@ -12,3 +12,5 @@
 * [HBase 数据库检索性能优化策略](http://blog.jobbole.com/89355/)
 * [Hadoop+ZooKeeper+HBase集群配置](http://www.linuxidc.com/Linux/2013-06/86347.htm)
 * [Hadoop安装部署笔记之-HBase完全分布模式安装](http://www.linuxidc.com/Linux/2012-12/76947.htm)
+* [Hbase shell 常用命令](http://www.cnblogs.com/nexiyi/p/hbase_shell.html)
+* [Hbase 官方中文文档](http://abloz.com/hbase/book.html#client.filter)
