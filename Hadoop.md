@@ -9,6 +9,6 @@
 * [Ubuntu 安装 Docker | Docker 中文指南](http://docker.widuu.com/installation/ubuntu.html#Ubuntu安装Docker)
 * [如何基于Docker快速搭建多节点Hadoop集群](http://cloud.51cto.com/art/201505/477851_all.htm)
 * [在 Docker 上建立多节点的 Hadoop 集群](http://www.oschina.net/translate/multinode-hadoop-cluster-on-docker)
-* 
-* 
-* 
+* [HBase 数据库检索性能优化策略](http://blog.jobbole.com/89355/)
+* [Hadoop+ZooKeeper+HBase集群配置](http://www.linuxidc.com/Linux/2013-06/86347.htm)
+* [Hadoop安装部署笔记之-HBase完全分布模式安装](http://www.linuxidc.com/Linux/2012-12/76947.htm)
