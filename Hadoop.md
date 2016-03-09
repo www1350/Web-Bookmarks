@@ -14,3 +14,5 @@
 * [Hadoop安装部署笔记之-HBase完全分布模式安装](http://www.linuxidc.com/Linux/2012-12/76947.htm)
 * [Hbase shell 常用命令](http://www.cnblogs.com/nexiyi/p/hbase_shell.html)
 * [Hbase 官方中文文档](http://abloz.com/hbase/book.html#client.filter)
+* [hbase shell 中，使用filter进行scan](http://blog.csdn.net/vah101/article/details/34105861)
+* [大数据性能调优之HBase的RowKey设计](http://www.open-open.com/lib/view/open1417612091323.html)
