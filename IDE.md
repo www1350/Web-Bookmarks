@@ -6,3 +6,4 @@
 #eclipse
 * [Eclipse导入git上的maven web项目 部署](http://blog.csdn.net/memray/article/details/36893737)
 * [eclipse代码注释的设置](http://blog.csdn.net/shiyuezhong/article/details/8450578)
+* [ hibernate反向工程 （eclipse和myeclipse）](http://blog.csdn.net/success041000/article/details/6455080/)
