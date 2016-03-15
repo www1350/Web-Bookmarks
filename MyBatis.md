@@ -2,7 +2,6 @@
 
 * [mybatis官方中文文档](http://www.mybatis.org/mybatis-3/zh/)
 * [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/HowToUse.markdown)
-* [spring和mybatis的高效率整合。不用写别名](http://www.oschina.net/code/snippet_733736_37996)
 * [深入浅出Mybatis-插件原理](http://blog.csdn.net/hupanfeng/article/details/9247379)
 * [深入浅出MyBatis-Sqlsession](http://blog.csdn.net/hupanfeng/article/details/9238127)
 * [深入浅出Mybatis-分页](http://blog.csdn.net/hupanfeng/article/details/9265341)
