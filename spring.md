@@ -7,3 +7,7 @@
 #spring-mybatis
 * [spring和mybatis的高效率整合。不用写别名。](http://www.oschina.net/code/snippet_733736_37996)
 * [springMVC+mybatis+ehcache详细配置](http://my.oschina.net/u/1469930/blog/388004?fromerr=HHrQbnAM)
+
+
+#no-sql
+*[spring MVC 整合mongodb](http://my.oschina.net/u/1013711/blog/207987?fromerr=hqUFQz9g)
