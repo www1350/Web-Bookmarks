@@ -6,3 +6,4 @@
 
 #spring-mybatis
 * [spring和mybatis的高效率整合。不用写别名。](http://www.oschina.net/code/snippet_733736_37996)
+* [springMVC+mybatis+ehcache详细配置](http://my.oschina.net/u/1469930/blog/388004?fromerr=HHrQbnAM)
