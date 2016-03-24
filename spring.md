@@ -15,3 +15,5 @@
 
 #cache
 * [Spring Cache](http://www.cnblogs.com/rollenholt/p/4202631.html)
+* [缓存与饼干，spring mvc使用ehcache](http://my.oschina.net/duoduo3369/blog/173924)
+* [注释驱动的 Spring cache 缓存介绍](http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/)
