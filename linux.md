@@ -11,3 +11,4 @@
 * [软RAID的详细配置讲解 RAID 5](http://www.linuxidc.com/Linux/2013-06/85958p3.htm)
 * [软RAID的详细配置讲解 RAID 10](http://www.linuxidc.com/Linux/2013-06/85958p4.htm)
 * [【科普】什么是RAID？RAID有什么优点？RAID有几种？](http://bbs.zol.com.cn/diybbs/d231_280174.html)
+* [CentOS 6.3下配置软RAID（Software RAID）](http://www.cnblogs.com/mchina/p/linux-centos-disk-array-software_raid.html)
