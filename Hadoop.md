@@ -4,6 +4,7 @@
 * [零基础学习hadoop到上手工作线路指导（初级篇）](http://www.kuqin.com/shuoit/20150331/345470.html)
 * [hbase 学习梳理](http://www.superwu.cn/?p=1443)
 * [redis入门教程](http://www.runoob.com/redis/redis-tutorial.html)
+* [Redis 起步](http://www.cnblogs.com/shanyou/archive/2012/01/28/2330451.html)
 * [什么是Docker?](http://www.docker.org.cn/book/docker/16_what-is-docker.html)
 * [快速理解Docker - 容器级虚拟化解决方案 ](http://blog.csdn.net/colorant/article/details/20608157)
 * [Ubuntu 安装 Docker | Docker 中文指南](http://docker.widuu.com/installation/ubuntu.html#Ubuntu安装Docker)
