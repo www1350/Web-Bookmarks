@@ -19,6 +19,8 @@
 * [Spring Cache](http://www.cnblogs.com/rollenholt/p/4202631.html)
 * [缓存与饼干，spring mvc使用ehcache](http://my.oschina.net/duoduo3369/blog/173924)
 * [注释驱动的 Spring cache 缓存介绍](http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/)
+* [spring与redis集成之aop整合方案 cache](http://blog.csdn.net/zhanngle/article/details/41077423)
+* [redis与spring的完全集成](http://www.tuicool.com/articles/MFFbmu)
  
 
 ##spring mvc
